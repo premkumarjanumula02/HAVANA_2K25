@@ -1,2 +1,3 @@
-# HAVANA_2K25
-Website for upcoming HAVANA 2K25
+# HAVANA 2025
+
+Website for the upcoming event.
